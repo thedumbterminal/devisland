@@ -1,4 +1,4 @@
-#Devisland site
+# Devisland site
 
 python -m SimpleHTTPServer
 
