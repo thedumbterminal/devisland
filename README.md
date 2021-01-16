@@ -1,2 +1,5 @@
-# devisland
-devisland.net site
+#Devisland site
+
+python -m SimpleHTTPServer
+
+http://localhost:8000
